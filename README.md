@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugrasenanv&show_icons=true&locale=en&layout=compact" alt="ugrasenanv" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugrasenanv&show_icons=true&locale=en" alt="ugrasenanv" /></p>
+
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ugrasenanv&layout=compact&hide=html&theme=jolly" alt="ugrasenanv" />&nbsp;&nbsp;&nbsp;&nbsp; </p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&" alt="ugrasenanv" /></p>
