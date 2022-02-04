@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ugrasenanv&layout=compact&hide=html&theme=jolly" alt="ugrasenanv" />&nbsp;&nbsp;&nbsp;&nbsp; </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&" alt="ugrasenanv" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&" alt="ugrasenanv" /></p> -->
 <!-- <p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&theme=material-palenight" /></p></p> -->
