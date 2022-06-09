@@ -1,5 +1,7 @@
 ### Hi there 👋 , I'm Ugrasenan
 
+Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/count.svg "Profile views")
+
 <!--
 **ugrasenanv/ugrasenanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
