@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Ugrasenan
 
-Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/count.svg "Profile views")
+
 
 <!--
 **ugrasenanv/ugrasenanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&" alt="ugrasenanv" /></p> -->
 <!-- <p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&theme=material-palenight" /></p></p> -->
+
+Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/count.svg "Profile views")
