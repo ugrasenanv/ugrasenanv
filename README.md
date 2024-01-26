@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">A passionate UI Developer</h3>
+<h3 align="left">A passionate full-stack developer</h3>
 
 
 <h3 align="left">Loves to work with:</h3>
