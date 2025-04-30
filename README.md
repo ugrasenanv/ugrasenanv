@@ -71,3 +71,4 @@ AWS Certified Cloud Practitioner (CLF-C02)
 Becoming a Cloud Practitioner - Part 1 - AWS Cloud Basics
 ![image](https://github.com/user-attachments/assets/ab02d94b-f05e-4962-8261-0092804314eb)
 
+[84_3_7269709_1743489945_AWS Course Completion Certificate.pdf](https://github.com/user-attachments/files/19976571/84_3_7269709_1743489945_AWS.Course.Completion.Certificate.pdf)
