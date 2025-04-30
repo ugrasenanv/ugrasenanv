@@ -53,6 +53,11 @@ Becoming a Cloud Practitioner - Part 4 - Advanced Cloud Services
 
 ![image](https://github.com/user-attachments/assets/677f9839-3459-4561-aa37-8dc29d174fb0)
 
+ Becoming a Cloud Practitioner - Part 3 - Identities, Security, and Monitoring the AWS Cloud
+
+![image](https://github.com/user-attachments/assets/7c57dac1-e10f-40b7-b260-2e97aba46a43)
+
+
 Becoming a Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies
 
 ![image](https://github.com/user-attachments/assets/eb145815-54d2-4335-a3fe-43f50fa22ef9)
@@ -62,3 +67,7 @@ AWS Certified Cloud Practitioner (CLF-C02)
 ![image](https://github.com/user-attachments/assets/b2a3ad07-9360-4877-adbb-f2c5e4b9e206)
 
 ![image](https://github.com/user-attachments/assets/c7b00019-adb6-467a-a0c9-708a62ed9a85)
+
+Becoming a Cloud Practitioner - Part 1 - AWS Cloud Basics
+![image](https://github.com/user-attachments/assets/ab02d94b-f05e-4962-8261-0092804314eb)
+
