@@ -48,3 +48,4 @@ Here are some ideas to get you started:
 <!-- <p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&theme=material-palenight" /></p></p> -->
 
 Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/count.svg "Profile views")
+![image](https://github.com/user-attachments/assets/c7b00019-adb6-467a-a0c9-708a62ed9a85)
