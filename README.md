@@ -45,7 +45,16 @@
 
 Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/count.svg "Profile views")
 
+- 💼 Currently working on:
+  - Designing multi-tier, event-driven architectures using AWS services
+  - Implementing serverless solutions with Lambda, API Gateway, and DynamoDB
+  - Infrastructure-as-Code with Terraform and AWS CDK
+  - CI/CD pipelines using CodePipeline, CodeBuild, and GitHub Actions
+  - Monitoring & logging with CloudWatch, X-Ray, and AWS Config
 
+- 🌐 Building secure, scalable applications with best practices in:
+  - VPC design, IAM, KMS, GuardDuty, WAF
+  - Cost optimization using Trusted Advisor and Cost Explorer
 
 ## 🧰 Tech Stack
 
