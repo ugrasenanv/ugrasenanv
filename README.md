@@ -1,5 +1,20 @@
-### Hi there 👋 , I'm Ugrasenan
+### Hi there 👋 , I'm Ugra
 
+
+🚀 **AWS Certified Solutions Architect – Professional**  
+🏗️ Designing **SaaS-based architectures** using **Infrastructure as Code (IoC)**, **Terraform**, **Kubernetes**, and **CIAM with Keycloak**
+
+---
+
+## 🔧 What I'm Working On
+
+- 🚀 Architecting secure, multi-tenant **SaaS platforms** on AWS
+- 🔁 Automating infrastructure using **Terraform** and **AWS CDK**
+- ☸️ Deploying microservices with **Kubernetes** on EKS
+- 🔐 Implementing **CIAM (Customer Identity and Access Management)** using **Keycloak**
+- 📦 Building secure APIs and scalable backend systems with **DevSecOps** best practices
+
+---
 
 <h3 align="left">Loves to work with:</h3>
 <p align="left"> 
@@ -31,47 +46,59 @@
 Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/count.svg "Profile views")
 
 
-🚀 **AWS Certified Solutions Architect – Professional**  
-🎯 Passionate about designing scalable, secure, and cost-optimized cloud architectures.
+
+## 🧰 Tech Stack
+
+| Domain              | Tools & Technologies |
+|---------------------|----------------------|
+| **Cloud**           | AWS (EC2, S3, RDS, Lambda, EKS, IAM, Route 53, CloudFront) |
+| **Identity & Access** | Keycloak (CIAM, RBAC, SSO, MFA), AWS Cognito |
+| **Infrastructure**  | Terraform, AWS CDK |
+| **Containers**      | Docker, Kubernetes, Helm |
+| **DevOps & CI/CD**  | GitHub Actions, CodePipeline, Jenkins |
+| **Monitoring**      | CloudWatch, Prometheus, Grafana |
+| **Languages**       | Python, YAML, Bash, TypeScript |
 
 ---
 
-## 🧠 About Me
+## 🏆 Certifications
 
-- 🎓 **30+ AWS Certifications & Trainings** completed, including:
-  - AWS Solutions Architect – Professional
-  - AWS DevOps Engineer – Professional
-  - AWS Security Specialty
-  - AWS Machine Learning Specialty
-  - AWS Advanced Networking Specialty
-  - and many more...
-
-- 💼 Currently working on:
-  - Designing multi-tier, event-driven architectures using AWS services
-  - Implementing serverless solutions with Lambda, API Gateway, DynamoDB
-  - Infrastructure-as-Code with Terraform and AWS CDK
-  - CI/CD pipelines using CodePipeline, CodeBuild, and GitHub Actions
-  - Monitoring & logging with CloudWatch, X-Ray, and AWS Config
-
-- 🌐 Building secure, scalable applications with best practices in:
-  - VPC design, IAM, KMS, GuardDuty, WAF
-  - Cost optimization using Trusted Advisor and Cost Explorer
+- ✅ AWS Solutions Architect – Professional
+- ✅ 30+ AWS Certifications & Trainings in DevOps, Security, ML, Networking
+- ✅ Specialized in cloud security, performance tuning, and cost governance
 
 ---
 
-## 🛠 Tech Stack
+## 🛡️ CIAM Expertise with Keycloak
 
-| Domain | Technologies |
-|--------|--------------|
-| **Cloud** | AWS (EC2, S3, RDS, Lambda, IAM, CloudFormation, EKS, Route 53, CloudFront, etc.) |
-| **DevOps** | Terraform, AWS CDK, GitHub Actions, Jenkins, Docker |
-| **Security** | IAM, KMS, Cognito, GuardDuty, WAF, Security Hub |
-| **Monitoring** | CloudWatch, X-Ray, AWS Config, SNS, EventBridge |
-| **Languages** | Python, Bash, YAML, TypeScript (for CDK) |
+- 🧩 Configured **SSO** and **OIDC** integrations across micro-frontends
+- 🔐 Enabled **Role-Based Access Control (RBAC)** and **MFA**
+- 🏢 Managed **multi-tenant identity** architecture for SaaS applications
+- 📲 Integrated Keycloak with APIs, API Gateway, and frontends using OAuth2 flows
 
 ---
 
 ## 📈 GitHub Stats
+
+![Ugrasenan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugrasenanv&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugrasenanv&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/) *(replace with your actual link)*
+- 🌐 Portfolio: [your-website.com](https://your-website.com) *(optional)*
+- ✉️ Email: your.email@example.com
+
+---
+
+_“Secure by design, scalable by architecture, and automated by code.”_
+
+
 
 ## 📊 GitHub Stats
 
