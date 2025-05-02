@@ -1,6 +1,55 @@
 ### Hi there 👋 , I'm Ugrasenan
 
 
+🚀 **AWS Certified Solutions Architect – Professional**  
+🎯 Passionate about designing scalable, secure, and cost-optimized cloud architectures.
+
+---
+
+## 🧠 About Me
+
+- 🎓 **30+ AWS Certifications & Trainings** completed, including:
+  - AWS Solutions Architect – Professional
+  - AWS DevOps Engineer – Professional
+  - AWS Security Specialty
+  - AWS Machine Learning Specialty
+  - AWS Advanced Networking Specialty
+  - and many more...
+
+- 💼 Currently working on:
+  - Designing multi-tier, event-driven architectures using AWS services
+  - Implementing serverless solutions with Lambda, API Gateway, DynamoDB
+  - Infrastructure-as-Code with Terraform and AWS CDK
+  - CI/CD pipelines using CodePipeline, CodeBuild, and GitHub Actions
+  - Monitoring & logging with CloudWatch, X-Ray, and AWS Config
+
+- 🌐 Building secure, scalable applications with best practices in:
+  - VPC design, IAM, KMS, GuardDuty, WAF
+  - Cost optimization using Trusted Advisor and Cost Explorer
+
+---
+
+## 🛠 Tech Stack
+
+| Domain | Technologies |
+|--------|--------------|
+| **Cloud** | AWS (EC2, S3, RDS, Lambda, IAM, CloudFormation, EKS, Route 53, CloudFront, etc.) |
+| **DevOps** | Terraform, AWS CDK, GitHub Actions, Jenkins, Docker |
+| **Security** | IAM, KMS, Cognito, GuardDuty, WAF, Security Hub |
+| **Monitoring** | CloudWatch, X-Ray, AWS Config, SNS, EventBridge |
+| **Languages** | Python, Bash, YAML, TypeScript (for CDK) |
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+
+
+🌟 _“Build with security. Scale with architecture. Optimize with experience.”_
+
+
 
 <!--
 **ugrasenanv/ugrasenanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
