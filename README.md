@@ -188,6 +188,9 @@ Becoming a Cloud Practitioner - Part 1 - AWS Cloud Basics
 
 ![image](https://github.com/user-attachments/assets/38aa4440-9b7c-4165-ab59-7084f3917376)
 
+![image](https://github.com/user-attachments/assets/e56bda8c-0b7d-4ab3-8ffb-776363d9ed1c)
+
+
 
 
 
