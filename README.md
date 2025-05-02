@@ -78,28 +78,6 @@ Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/cou
 
 ---
 
-## 📈 GitHub Stats
-
-![Ugrasenan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugrasenanv&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugrasenanv&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugrasenanv&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/) *(replace with your actual link)*
-- 🌐 Portfolio: [your-website.com](https://your-website.com) *(optional)*
-- ✉️ Email: your.email@example.com
-
----
-
-_“Secure by design, scalable by architecture, and automated by code.”_
-
-
-
 ## 📊 GitHub Stats
 
 ![Ugrasenan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugrasenanv&show_icons=true&theme=tokyonight)
