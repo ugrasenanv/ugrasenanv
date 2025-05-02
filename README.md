@@ -73,7 +73,11 @@ Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/cou
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Ugrasenan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugrasenanv&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugrasenanv&layout=compact&theme=tokyonight)
 
 
 
