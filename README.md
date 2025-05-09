@@ -114,6 +114,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Well-Architected Proficient
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="df05c69f-4e2e-42fe-be67-1802414ae470" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <h3 align="left">A passionate full-stack developer</h3>
 
 Becoming a Cloud Practitioner - Part 4 - Advanced Cloud Services
