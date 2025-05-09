@@ -115,9 +115,8 @@ Here are some ideas to get you started:
 -->
 
 Well-Architected Proficient
+![well-architected-proficient (1)](https://github.com/user-attachments/assets/ddd6e9d8-7e93-441a-a1ea-de5bea14f2a4)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="df05c69f-4e2e-42fe-be67-1802414ae470" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<h3 align="left">A passionate full-stack developer</h3>
 
 Becoming a Cloud Practitioner - Part 4 - Advanced Cloud Services
 
