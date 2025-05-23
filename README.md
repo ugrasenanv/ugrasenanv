@@ -70,8 +70,8 @@ Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/cou
 
 ---
 
-### 🏆 GitHub Profile Trophy:
----
+## 🏆 GitHub Profile Trophy:
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ugrasenanv&no-frame=true&column=8&theme=onedark"/>
 </a>
