@@ -13,6 +13,7 @@
 - ☸️ Deploying microservices with **Kubernetes** on EKS
 - 🔐 Implementing **CIAM (Customer Identity and Access Management)** using **Keycloak**
 - 📦 Building secure APIs and scalable backend systems with **DevSecOps** best practices
+- 🔧 Tech: LLM integrations, modelling, search engine - vespa.ai, Golang, Scala, Spark, AWS, Python, PySpark
 
 ---
 
