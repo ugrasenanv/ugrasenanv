@@ -127,6 +127,9 @@ Well-Architected Proficient
 ![well-architected-proficient (1)](https://github.com/user-attachments/assets/ddd6e9d8-7e93-441a-a1ea-de5bea14f2a4)
 
 
+![image](https://github.com/user-attachments/assets/97fd93fa-9fd9-4a72-9234-2db4ab0d89fc)
+
+
 Becoming a Cloud Practitioner - Part 4 - Advanced Cloud Services
 
 ![image](https://github.com/user-attachments/assets/677f9839-3459-4561-aa37-8dc29d174fb0)
