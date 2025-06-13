@@ -129,9 +129,6 @@ Well-Architected Proficient
 
 ![image](https://github.com/user-attachments/assets/3a2e8eef-8703-4939-a533-0ad7137875e3)
 
-
-![image](https://github.com/user-attachments/assets/2d6a770d-bfb2-405e-af92-a7fb32413ea2)
-
 ![image](https://github.com/user-attachments/assets/101f73fe-2ed6-4441-8fdc-c563f46e2a14)
 
 
