@@ -127,6 +127,11 @@ Well-Architected Proficient
 ![well-architected-proficient (1)](https://github.com/user-attachments/assets/ddd6e9d8-7e93-441a-a1ea-de5bea14f2a4)
 ![aws-partner-technical-accredited](https://github.com/user-attachments/assets/e7238a2c-cd11-400a-9746-ddb4ef23d94b)
 
+![image](https://github.com/user-attachments/assets/3a2e8eef-8703-4939-a533-0ad7137875e3)
+
+
+![image](https://github.com/user-attachments/assets/2d6a770d-bfb2-405e-af92-a7fb32413ea2)
+
 ![image](https://github.com/user-attachments/assets/101f73fe-2ed6-4441-8fdc-c563f46e2a14)
 
 
