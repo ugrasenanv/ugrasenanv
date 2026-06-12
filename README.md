@@ -13,6 +13,9 @@
   </p>
 </div>
 
+<img width="1408" height="768" alt="Gemini_Generated_Image_v72b6iv72b6iv72b" src="https://github.com/user-attachments/assets/33baed81-e5f9-45d0-96e1-b89a5ac77b64" />
+
+
 ---
 
 ### 🌐 The Convergence of Intelligence & Strategy
