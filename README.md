@@ -134,6 +134,9 @@ At Google, I advise APAC’s enterprise C-suites on the sovereign adoption of Ge
 
 Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/count.svg "Profile views")
 
+Profile views: ![Profile views](https://profile-counter.glitch.me/ugrasenanv/count.svg "Profile views")
+<img src="https://profile-counter.deno.dev/:ugrasenanv:/count.svg" alt="Key:: Visitor's Count" />
+
 - 💼 Currently working on:
   - Designing multi-tier, event-driven architectures using AWS services
   - Implementing serverless solutions with Lambda, API Gateway, and DynamoDB
