@@ -1,9 +1,10 @@
 ### Hi there 👋 , I'm Ugra
 <div align="center">
   <h1>Vellaichamy </h1>
-  <p><b>Lead GenAI Engineer</b></p>
-  <p><i>Orchestrating the Frontier of Enterprise Intelligence & Infrastructure Economics</i></p>
-  <p><i>Bridging Deep R&D, Corporate Strategy, and Production-Grade Engineering</i></p>
+  <p align="center">
+  <b>Principal AI Architect</b> | <b>Lead GenAI Engineer</b> • Multi-Agent Systems • RAG • MCP • AI Governance<br/>
+  Building production GenAI on <b>Azure AI Foundry</b>, <b>AWS Bedrock</b>, <b>Vertex AI</b> and Production-Grade Engineering
+</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Reasoning-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Compute-NVIDIA%20B200%20%2F%20TPU%20v5-34A853?style=flat-square" />
