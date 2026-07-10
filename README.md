@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Ugra
 <div align="center">
-  <h1>Vellaichamy </h1>
+  <h1>Ugrasenan </h1>
   <p align="center">
   <b>Principal AI Architect</b> | <b>Lead GenAI Engineer</b> • Multi-Agent Systems • RAG • MCP • AI Governance<br/>
   Building production GenAI on <b>Azure AI Foundry</b>, <b>AWS Bedrock</b>, <b>Vertex AI</b> and Production-Grade Engineering
